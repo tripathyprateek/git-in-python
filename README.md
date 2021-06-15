@@ -1,6 +1,6 @@
 # Git in Python
 
-A command line interface having simiar functionality to Git written in Python.
+A command line interface having similar functionality to Git written in Python.
 Minimal usage of external libraries.
 - Support for GitHub as external server
 ## Installation 
@@ -27,7 +27,7 @@ Go to the project directory
 Initialise an empty folder
 
 ```
-python3 main.py int [folder_name]
+python3 main.py init [folder_name]
 cd [folder_name]
 ```
 Next add new files to the folder and check for changed files
